@@ -1,54 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brandonjmatthews.github.io/home/blog/test-post/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/projects/</loc>
+    <loc>https://brandonjmatthews.github.io/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/blog/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/tags/projects/</loc>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/categories/projects/</loc>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/projects/</loc>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/tags/publications/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/categories/publications/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/publications/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://brandonjmatthews.github.io/cv/</loc>
     <priority>0</priority>
   </url>
-  
-  <url>
-    <loc>https://brandonjmatthews.github.io/home/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

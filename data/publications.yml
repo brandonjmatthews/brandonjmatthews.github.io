@@ -1,0 +1,21 @@
+name: Publications
+source:
+  - icon: fa fa-file-text
+    name: Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting
+    description: "B. J. Matthews, B. H. Thomas, S. Von Itzstein and R. T. Smith, \"Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting,\" 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 19-27, doi: 10.1109/VR.2019.8797974."
+    url: https://doi.org/10.1109/VR.2019.8797974
+  
+  - icon: fa fa-file-text
+    name: Head Gaze Target Selection for Redirected Interaction
+    description: "B. J. Matthews and R. T. Smith, \"Head Gaze Target Selection for Redirected Interaction,\" SIGGRAPH Asia 2019 XR (SA '19), 2019, pp. 13–14. doi: 10.1145/3355355.3361883."
+    url: https://doi.org/10.1145/3355355.3361883
+
+  - icon: fa fa-file-text
+    name: Adaptive Reset Techniques for Haptic Retargeted Interaction
+    description: "B. J. Matthews, B. H. Thomas, S. Von Itzstein and R. Smith, \"Adaptive Reset Techniques for Haptic Retargeted Interaction,\" in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2021.3120410."
+    url: https://doi.org/10.1109/TVCG.2021.3120410
+
+  - icon: fa fa-file-text
+    name: Shape Aware Haptic Retargeting for Accurate Hand Interactions
+    description: "B. J. Matthews, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, \"Shape Aware Haptic Retargeting for Accurate Hand Interactions,\" 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, pp. 625-634, doi: 10.1109/VR51125.2022.00083."
+    url: https://doi.org/10.1109/VR51125.2022.00083
