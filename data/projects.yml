@@ -1,36 +1,26 @@
 name: Projects
 source:
-  # - icon: fa fa-github
-  #   name: Project 1
-  #   description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-  #   url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-file-text
+    name: Remapped Physical-Virtual Interfaces
+    description: "Remapped physical-virtual interfaces combine perceptual illusions, virtual reality, and physical control panels. This novel technology enables the creation of dynamic and reconfigurable virtual interfaces that provide genuine haptic feedback. I developed modular toolkits for haptic retargeting and creating remapped physical-virtual interfaces. I also extended haptic retargeting with new techniques, including Shape Aware Haptic Retargeting, bimanual haptic retargeting, and adaptive reset techniques."
+    url: 
 
-  # - icon: fa fa-github
-  #   name: Project 2
-  #   description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-  #   url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-file-text
+    name: Parametric Digital Material Creator
+    description: "I co-developed a tool for the parametric design of digital materials for Polyget 3D printing. The tool built in Unity uses a pipeline of compute shaders for generating PNG slices of 3D models with mathematically defined patterns and signed distance functions."
+    url: 
 
-  # - icon: fa fa-github
-  #   name: Project 3
-  #   description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-  #   url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-file-text
+    name: Treatment Guidance for Transcranial Magnetic Stimulation (TMS)
+    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I ported the original application, built for Hololens 1, to the Hololens 2. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
+    url: 
 
-  # - icon: fa fa-globe
-  #   name: Project 4
-  #   description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-  #   url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-file-text
+    name: Real Anthropometric Experience System (RAES)
+    description: "I designed and developed RAES, a desktop and immersive VR system for ergonomic evaluation. RAES provides designers with an empathetic experience of their designs as people of different sizes. Designers can personally experience how far a shorter person needs to stretch to reach a high shelf or how restricted a tall and large person might feel in a cramped environment, aiding them to create accessible and inclusive spaces. Full body tracking technologies and a custom scaling system control avatar bone lengths and body proportions based on real anthropometry data.\n\nWork in Collaboration with the University of South Australia, Australian Research Center for Interactive and Virtual Environemnts, the University of Adelaide, and Kadego-Cadgile."
+    url: 
 
-  # - icon: fa fa-globe
-  #   name: Project 5
-  #   description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-  #   url: https://github.com/nurlansu/hugo-sustain
-
-  # - icon: fa fa-cog
-  #   name: Project 6
-  #   description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-  #   url: https://github.com/nurlansu/hugo-sustain
-
-  # - icon: fa fa-cog
-  #   name: Project 7
-  #   description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
-  #   url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-file-text
+    name: Low Cost Diminished Reality Simulator
+    description: "I implemented an immersive low cost simulator for training vehicle operators. Using video see-through augmented reality the user is able to see their real hands, steering wheel and other implements, then chromakeying is used to remove the background and cut through to the virtual environemnt where they see the simulated vehicle and nvironment."
+    url: 
