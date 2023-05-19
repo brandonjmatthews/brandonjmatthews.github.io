@@ -19,3 +19,23 @@ source:
     name: Shape Aware Haptic Retargeting for Accurate Hand Interactions
     description: "B. J. Matthews, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, \"Shape Aware Haptic Retargeting for Accurate Hand Interactions,\" 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, pp. 625-634, doi: 10.1109/VR51125.2022.00083."
     url: https://doi.org/10.1109/VR51125.2022.00083
+
+  - icon: fa fa-file-text
+    name: Adapting VST AR X-Ray Vision Techniques to OST AR
+    description: "T. J. Clarke, W. Mayer, J. E. Zucco, B. J. Matthews, and R. T. Smith, “Adapting VST AR X-Ray Vision Techniques to OST AR,” in 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2022, pp. 495–500. doi: 10.1109/ISMAR-Adjunct57072.2022.00104."
+    url: https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00104
+
+  - icon: fa fa-file-text
+    name: The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality
+    description: "A. Jing, K. May, B. Matthews, G. Lee, and M. Billinghurst, “The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality,” Proc. ACM Hum.-Comput. Interact., vol. 6, no. CSCW2, Nov. 2022, doi: 10.1145/3555564."
+    url: https://doi.org/10.1145/3555564
+
+  - icon: fa fa-file-text
+    name: "Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts"
+    description: "B. J. Matthews, B. H. Thomas, G. S. Von Itzstein, and R. T. Smith, “Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI ’23. New York, NY, USA: Association for Computing Machinery, 2023. doi: 10.1145/3544548.3580723."
+    url: https://doi.org/10.1145/3544548.3580723
+
+  - icon: fa fa-file-text
+    name: "Remapped Interfaces: Building Contextually Adaptive User Interfaces with Haptic Retargeting"
+    description: "B. J. Matthews, C. Reichherzer, and R. T. Smith, “Remapped Interfaces: Building Contextually Adaptive User Interfaces with Haptic Retargeting,” in Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI EA ’23. New York, NY, USA: Association for Computing Machinery, 2023. doi: 10.1145/3544549.3583912."
+    url: https://doi.org/10.1145/3544549.3583912
