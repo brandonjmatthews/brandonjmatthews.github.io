@@ -16,11 +16,13 @@ source:
   - icon: fa fa-file-text
     name: 3D MRI Visualizer for the Looking Glass
     description: "I built an application for visualizing MRI and functional MRI scans on the Looking Glass autostereoscopic display. Using either Leap Motion hand tracking or a conventional mouse, medical practicioners can navigate and explore the scan data. The tool does not currently load DICOM files, instead requring a manually created configuration file, but this functionality is in development."
+    image: "/img/MRI.jpg"
     url: 
 
   - icon: fa fa-file-text
     name: 3D SONAR Prototype
     description: "I prototyped multiple novel visualizations of SONAR data using 3D displays. These prototype visualizations leverage the Looking Glass autostereoscopic display and Voxon VX1 volumetric display to provide a spatial understanding of SONAR data. SONAR data is conventionally presented in a 2D format that can be challenging for new or inexperienced oeprators to interpret, so these prototypes were a first look at alternative visualizations for these emerging display technologies."
+    image: "/img/3d sonar.jpg"
     url: 
 
 
