@@ -8,17 +8,28 @@ source:
 
   - icon: fa fa-file-text
     name: Parametric Digital Material Creator
-    description: "I co-developed a tool for the parametric design of digital materials for Polyget 3D printing. The tool built in Unity uses a pipeline of compute shaders for generating PNG slices of 3D models with mathematically defined patterns and signed distance functions."
+    description: "I co-developed a tool for the parametric design of digital materials for Polyget 3D printing. The tool built in Unity uses a pipeline of compute shaders for generating PNG slices of 3D models with mathematically defined patterns, signed distance functions and material structures. These are then exported to GrabCAD Voxel print to be printed on the Stratasys J735 or as STL models."
     url: 
 
   - icon: fa fa-file-text
+    name: 3D MRI Visualizer for the Looking Glass
+    description: "I built an application for visualizing MRI and functional MRI scans on the Looking Glass autostereoscopic display. Using either Leap Motion hand tracking or a conventional mouse, medical practicioners can navigate and explore the scan data. The tool does not currently load DICOM files, instead requring a manually created configuration file, but this functionality is in development."
+    url: 
+
+  - icon: fa fa-file-text
+    name: 3D SONAR Prototype
+    description: "I prototyped multiple novel visualizations of SONAR data using 3D displays. These prototype visualizations leverage the Looking Glass autostereoscopic display and Voxon VX1 volumetric display to provide a spatial understanding of SONAR data. SONAR data is conventionally presented in a 2D format that can be challenging for new or inexperienced oeprators to interpret, so these prototypes were a first look at alternative visualizations for these emerging display technologies."
+    url: 
+
+
+  - icon: fa fa-file-text
     name: Treatment Guidance for Transcranial Magnetic Stimulation (TMS)
-    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I ported the original application, built for Hololens 1, to the Hololens 2. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
+    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I rebuilt this tool for the Hololens 2 based on a previous version designedfor Hololens 1, making use of modern features like hand tracking. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
     url: 
 
   - icon: fa fa-file-text
     name: Real Anthropometric Experience System (RAES)
-    description: "I designed and developed RAES, a desktop and immersive VR system for ergonomic evaluation. RAES provides designers with an empathetic experience of their designs as people of different sizes. Designers can personally experience how far a shorter person needs to stretch to reach a high shelf or how restricted a tall and large person might feel in a cramped environment, aiding them to create accessible and inclusive spaces. Full body tracking technologies and a custom scaling system control avatar bone lengths and body proportions based on real anthropometry data.\n\nWork in Collaboration with the University of South Australia, Australian Research Center for Interactive and Virtual Environemnts, the University of Adelaide, and Kadego-Cadgile."
+    description: "I designed and developed RAES, a desktop and immersive VR system for ergonomic evaluation. RAES provides designers with an empathetic experience of their designs as people of different sizes. Designers can personally experience how far a shorter person needs to stretch to reach a high shelf or how restricted a tall and large person might feel in a cramped environment, aiding them to create accessible and inclusive spaces. Full body tracking technologies and a custom scaling system control avatar bone lengths and body proportions based on real anthropometry data.\n\nThis work was funded by the Defence Innovation Partnership program as a collaboration between the University of South Australia, Australian Research Center for Interactive and Virtual Environments, the University of Adelaide, and Kadego-Cadgile."
     image: "/img/dhms.jpg"
     url: 
 
