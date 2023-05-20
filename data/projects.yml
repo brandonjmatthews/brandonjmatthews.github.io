@@ -2,7 +2,9 @@ name: Projects
 source:
   - icon: fa fa-file-text
     name: Remapped Physical-Virtual Interfaces
-    description: "Remapped physical-virtual interfaces combine perceptual illusions, virtual reality, and physical control panels. This novel technology enables the creation of dynamic and reconfigurable virtual interfaces that provide genuine haptic feedback. I developed modular toolkits for haptic retargeting and creating remapped physical-virtual interfaces. I also extended haptic retargeting with new techniques, including Shape Aware Haptic Retargeting, bimanual haptic retargeting, and adaptive reset techniques."
+    description: "Remapped physical-virtual interfaces combine perceptual illusions, virtual reality, and physical control panels. This novel technology enables the creation of dynamic and reconfigurable virtual interfaces that provide genuine haptic feedback. I developed modular toolkits for haptic retargeting and creating remapped physical-virtual interfaces. I also extended haptic retargeting with new techniques, including Shape Aware Haptic Retargeting, bimanual haptic retargeting, and adaptive reset techniques.
+    
+    This project encompasses my Ph.D. research and is funded by an Australian Research Training Program scholarship."
     image: "/img/interface map.jpg"
     url: 
 
