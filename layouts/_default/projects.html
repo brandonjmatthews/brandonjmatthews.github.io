@@ -3,13 +3,13 @@
   {{ partial "header" . }}
 
   <div class="container">
-    <section id="publications">
-      <h4 class="my-5">{{ .Site.Data.publications.name }}</h4>
+    <section id="projects">
+      <h4 class="my-5">{{ .Site.Data.projects.name }}</h4>
       <div class="panel">
         <div class="panel-body">
-          {{ range $el := .Site.Data.publications.source }}
+          {{ range $el := .Site.Data.projects.source }}
             <h5>
-              <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+              <img class="img-project" src="{{ .image }}">
               <b><a href="{{ .url }}">{{ $el.name }}</a></b>&nbsp;-&nbsp;{{ $el.description | markdownify}}
             </h5>
           {{ end }}

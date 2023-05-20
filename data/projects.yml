@@ -3,6 +3,7 @@ source:
   - icon: fa fa-file-text
     name: Remapped Physical-Virtual Interfaces
     description: "Remapped physical-virtual interfaces combine perceptual illusions, virtual reality, and physical control panels. This novel technology enables the creation of dynamic and reconfigurable virtual interfaces that provide genuine haptic feedback. I developed modular toolkits for haptic retargeting and creating remapped physical-virtual interfaces. I also extended haptic retargeting with new techniques, including Shape Aware Haptic Retargeting, bimanual haptic retargeting, and adaptive reset techniques."
+    image: "/img/interface map.jpg"
     url: 
 
   - icon: fa fa-file-text
@@ -18,6 +19,7 @@ source:
   - icon: fa fa-file-text
     name: Real Anthropometric Experience System (RAES)
     description: "I designed and developed RAES, a desktop and immersive VR system for ergonomic evaluation. RAES provides designers with an empathetic experience of their designs as people of different sizes. Designers can personally experience how far a shorter person needs to stretch to reach a high shelf or how restricted a tall and large person might feel in a cramped environment, aiding them to create accessible and inclusive spaces. Full body tracking technologies and a custom scaling system control avatar bone lengths and body proportions based on real anthropometry data.\n\nWork in Collaboration with the University of South Australia, Australian Research Center for Interactive and Virtual Environemnts, the University of Adelaide, and Kadego-Cadgile."
+    image: "/img/dhms.jpg"
     url: 
 
   - icon: fa fa-file-text

@@ -94,6 +94,13 @@ html, body {
   max-width: 100%;
 }
 
+.img-project {
+  height: auto;
+  max-width: 30%;
+  float: left;
+  margin: 10px;
+}
+
 .panel {
   border-style: none;
 }
@@ -110,7 +117,7 @@ html, body {
 }
 
 .panel h5 {
-  text-align: left;
+  text-align: justify;
   line-height: 30px;
   font-size: 18px;
 }
