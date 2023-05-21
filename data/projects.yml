@@ -11,6 +11,7 @@ source:
   - icon: fa fa-file-text
     name: Parametric Digital Material Creator
     description: "I co-developed a tool for the parametric design of digital materials for Polyget 3D printing. The tool built in Unity uses a pipeline of compute shaders for generating PNG slices of 3D models with mathematically defined patterns, signed distance functions and material structures. These are then exported to GrabCAD Voxel print to be printed on the Stratasys J735 or as STL models."
+    image: "/img/pddm.JPG"
     url: 
 
   - icon: fa fa-file-text
