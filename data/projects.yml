@@ -41,4 +41,5 @@ source:
   - icon: fa fa-file-text
     name: Low Cost Diminished Reality Simulator
     description: "I implemented an immersive low cost simulator for training vehicle operators. Using video see-through augmented reality the user is able to see their real hands, steering wheel and other implements, then chromakeying is used to remove the background and cut through to the virtual environemnt where they see the simulated vehicle and nvironment."
+    image: "/img/simulator.jpg"
     url: 
