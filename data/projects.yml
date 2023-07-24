@@ -16,7 +16,7 @@ source:
 
   - icon: fa fa-file-text
     name: 3D MRI Visualizer for the Looking Glass
-    description: "I built an application for visualizing MRI and functional MRI scans on the Looking Glass autostereoscopic display. Using either Leap Motion hand tracking or a conventional mouse, medical practicioners can navigate and explore the scan data. The tool does not currently load DICOM files, instead requring a manually created configuration file, but this functionality is in development."
+    description: "I built an application for visualizing MRI and functional MRI scans on the Looking Glass autostereoscopic display. Medical practitioners can navigate and explore the scan data using either Leap Motion hand tracking or a conventional mouse. The tool does not currently load DICOM files, instead requring a manually created configuration file, but this functionality is in development."
     image: "/img/MRI.jpg"
     url: 
 
@@ -29,7 +29,7 @@ source:
 
   - icon: fa fa-file-text
     name: Treatment Guidance for Transcranial Magnetic Stimulation (TMS)
-    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I rebuilt this tool for the Hololens 2 based on a previous version designedfor Hololens 1, making use of modern features like hand tracking. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
+    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I rebuilt this tool for the Hololens 2 based on a previous version designed for Hololens 1, using modern features like hand tracking. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
     url: 
 
   # - icon: fa fa-file-text
@@ -39,7 +39,7 @@ source:
   #   url: 
 
   - icon: fa fa-file-text
-    name: Low Cost Diminished Reality Simulator
-    description: "I implemented an immersive low cost simulator for training vehicle operators. Using video see-through augmented reality the user is able to see their real hands, steering wheel and other implements. Chromakeying is used to remove the coloured walls around the user and cut through the video enabling them to see the simulated vehicle and virtual world. The system uses low cost devices like the Ovrvision dual camera, off the shelf gaming steering wheel and simple painted panels to create an immersive mixed reality simulator. The users can still see the real steering wheel, read maps and take notes while experiencing a virtual world."
+    name: Low Cost Mixed Reality Simulator
+    description: "I implemented an immersive low-cost mixed simulator for training vehicle operators. The user can see their real hands, steering wheel and other implements using video see-through augmented reality. Chromakeying is used to remove the coloured walls around the user and cut through the video enabling them to see the simulated vehicle and virtual world. The system uses low cost devices like the Ovrvision dual camera, off the shelf gaming steering wheel and simple painted panels to create an immersive mixed reality simulator. The users can still see the real steering wheel, read maps and take notes while experiencing a virtual world."
     image: "/img/simulator.jpg"
     url: 
