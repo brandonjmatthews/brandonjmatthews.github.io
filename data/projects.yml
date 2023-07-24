@@ -35,8 +35,8 @@ source:
   - icon: fa fa-file-text
     name: Real Anthropometric Experience System (RAES)
     description: "I designed and developed RAES, a desktop and immersive VR system for ergonomic evaluation. RAES provides designers with an empathetic experience of their designs as people of different sizes. Designers can personally experience how far a shorter person needs to stretch to reach a high shelf or how restricted a tall and large person might feel in a cramped environment, aiding them to create accessible and inclusive spaces. Full body tracking technologies and a custom scaling system control avatar bone lengths and body proportions based on real anthropometry data.\n\nThis work was funded by the Defence Innovation Partnership program as a collaboration between the University of South Australia, Australian Research Center for Interactive and Virtual Environments, the University of Adelaide, and Kadego-Cadgile."
-    image: "/img/dhms.jpg"
-     url: 
+    # image: "/img/dhms.jpg"
+    url: 
 
   - icon: fa fa-file-text
     name: Low Cost Mixed Reality Simulator
