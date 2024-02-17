@@ -15,12 +15,6 @@ source:
     url: 
 
   - icon: fa fa-file-text
-    name: Treatment Guidance for Transcranial Magnetic Stimulation (TMS)
-    description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I rebuilt this tool for the Hololens 2 based on a previous version designed for Hololens 1, using modern features like hand tracking. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
-    image: "/img/tms.jpg"
-    url: 
-
-  - icon: fa fa-file-text
     name: Parametric Digital Material Creator
     description: "I co-developed a tool for the parametric design of digital materials for Polyget 3D printing. The tool built in Unity uses a pipeline of compute shaders for generating PNG slices of 3D models with mathematically defined patterns, signed distance functions and material structures. These are then exported to GrabCAD Voxel print to be printed on the Stratasys J735 or as STL models."
     image: "/img/pddm.JPG"
