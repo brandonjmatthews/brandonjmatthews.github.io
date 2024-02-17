@@ -17,6 +17,7 @@ source:
   - icon: fa fa-file-text
     name: Treatment Guidance for Transcranial Magnetic Stimulation (TMS)
     description: "This tool uses optical marker tracking to guide the application of Transcranial Magnetic Stimulation (TMS). I rebuilt this tool for the Hololens 2 based on a previous version designed for Hololens 1, using modern features like hand tracking. I also built a Bluetooth proxy device that emulates the shape and interactions of the real device and provides a means for interacting with the tool."
+    image: "/img/tms.jpg"
     url: 
 
   - icon: fa fa-file-text
