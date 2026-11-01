@@ -2,40 +2,95 @@ name: Publications
 source:
   - icon: fa fa-file-text
     name: Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting
-    description: "**B. J. Matthews**, B. H. Thomas, S. Von Itzstein and R. T. Smith, \"Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting,\" 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 19-27, doi: 10.1109/VR.2019.8797974."
+    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, “Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting,” in 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019, pp. 19–27, doi: 10.1109/VR.2019.8797974."
     url: https://doi.org/10.1109/VR.2019.8797974
-  
+
   - icon: fa fa-file-text
     name: Head Gaze Target Selection for Redirected Interaction
-    description: "**B. J. Matthews** and R. T. Smith, \"Head Gaze Target Selection for Redirected Interaction,\" SIGGRAPH Asia 2019 XR (SA '19), 2019, pp. 13–14. doi: 10.1145/3355355.3361883."
+    description: "**B. J. Matthews** and R. T. Smith, “Head Gaze Target Selection for Redirected Interaction,” in SIGGRAPH Asia 2019 XR, in SA ’19. Brisbane, QLD, Australia: Association for Computing Machinery, 2019, pp. 13–14, doi: 10.1145/3355355.3361883."
     url: https://doi.org/10.1145/3355355.3361883
 
   - icon: fa fa-file-text
-    name: Adaptive Reset Techniques for Haptic Retargeted Interaction
-    description: "**B. J. Matthews**, B. H. Thomas, S. Von Itzstein and R. Smith, \"Adaptive Reset Techniques for Haptic Retargeted Interaction,\" in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2021.3120410."
-    url: https://doi.org/10.1109/TVCG.2021.3120410
+    name: Mixed Reality Interaction and Presentation Techniques for Medical Visualisations
+    description: "R. T. Smith, T. J. Clarke, W. Mayer, A. Cunningham, **B. J. Matthews** and J. E. Zucco, “Mixed Reality Interaction and Presentation Techniques for Medical Visualisations,” in Biomedical Visualisation: Volume 8, P. M. Rea, Ed., Advances in Experimental Medicine and Biology. Cham: Springer International Publishing, 2020, pp. 123–139, doi: 10.1007/978-3-030-47483-6_7."
+    url: https://doi.org/10.1007/978-3-030-47483-6_7
+
+  - icon: fa fa-file-text
+    name: "eyemR-Talk: Using Speech to Visualise Shared MR Gaze Cues"
+    description: "A. Jing, **B. J. Matthews**, K. May, T. Clarke, G. Lee and M. Billinghurst, “eyemR-Talk: Using Speech to Visualise Shared MR Gaze Cues,” in SIGGRAPH Asia 2021 Posters, in SA ’21 Posters. New York, NY, USA: Association for Computing Machinery, 2021, pp. 1–2, doi: 10.1145/3476124.3488618."
+    url: https://doi.org/10.1145/3476124.3488618
 
   - icon: fa fa-file-text
     name: Shape Aware Haptic Retargeting for Accurate Hand Interactions
-    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, \"Shape Aware Haptic Retargeting for Accurate Hand Interactions,\" 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, pp. 625-634, doi: 10.1109/VR51125.2022.00083."
+    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, “Shape Aware Haptic Retargeting for Accurate Hand Interactions,” in 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, pp. 625–634, doi: 10.1109/VR51125.2022.00083."
     url: https://doi.org/10.1109/VR51125.2022.00083
 
   - icon: fa fa-file-text
     name: Adapting VST AR X-Ray Vision Techniques to OST AR
-    description: "T. J. Clarke, W. Mayer, J. E. Zucco, **B. J. Matthews**, and R. T. Smith, “Adapting VST AR X-Ray Vision Techniques to OST AR,” in 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2022, pp. 495–500. doi: 10.1109/ISMAR-Adjunct57072.2022.00104."
+    description: "T. J. Clarke, W. Mayer, J. E. Zucco, **B. J. Matthews** and R. T. Smith, “Adapting VST AR X-Ray Vision Techniques to OST AR,” in 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2022, pp. 495–500, doi: 10.1109/ISMAR-Adjunct57072.2022.00104."
     url: https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00104
 
   - icon: fa fa-file-text
     name: The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality
-    description: "A. Jing, K. May, **B. Matthews**, G. Lee, and M. Billinghurst, “The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality,” Proc. ACM Hum.-Comput. Interact., vol. 6, no. CSCW2, Nov. 2022, doi: 10.1145/3555564."
+    description: "A. Jing, K. May, **B. J. Matthews**, G. Lee and M. Billinghurst, “The Impact of Sharing Gaze Behaviours in Collaborative Mixed Reality,” Proc. ACM Hum.-Comput. Interact., vol. 6, no. CSCW2, Art. no. 463, Nov. 2022, doi: 10.1145/3555564."
     url: https://doi.org/10.1145/3555564
 
   - icon: fa fa-file-text
+    name: Adaptive Reset Techniques for Haptic Retargeted Interaction
+    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, “Adaptive Reset Techniques for Haptic Retargeted Interaction,” IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 2, pp. 1478–1490, Feb. 2023, doi: 10.1109/TVCG.2021.3120410."
+    url: https://doi.org/10.1109/TVCG.2021.3120410
+
+  - icon: fa fa-file-text
     name: "Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts"
-    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein, and R. T. Smith, “Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI ’23. New York, NY, USA: Association for Computing Machinery, 2023. doi: 10.1145/3544548.3580723."
+    description: "**B. J. Matthews**, B. H. Thomas, G. S. Von Itzstein and R. T. Smith, “Towards Applied Remapped Physical-Virtual Interfaces: Synchronization Methods for Resolving Control State Conflicts,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI ’23. Hamburg, Germany: Association for Computing Machinery, 2023, Art. no. 698, doi: 10.1145/3544548.3580723."
     url: https://doi.org/10.1145/3544548.3580723
 
   - icon: fa fa-file-text
     name: "Remapped Interfaces: Building Contextually Adaptive User Interfaces with Haptic Retargeting"
-    description: "**B. J. Matthews**, C. Reichherzer, and R. T. Smith, “Remapped Interfaces: Building Contextually Adaptive User Interfaces with Haptic Retargeting,” in Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI EA ’23. New York, NY, USA: Association for Computing Machinery, 2023. doi: 10.1145/3544549.3583912."
+    description: "**B. J. Matthews**, C. Reichherzer and R. T. Smith, “Remapped Interfaces: Building Contextually Adaptive User Interfaces with Haptic Retargeting,” in Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, in CHI EA ’23. Hamburg, Germany: Association for Computing Machinery, 2023, Art. no. 469, doi: 10.1145/3544549.3583912."
     url: https://doi.org/10.1145/3544549.3583912
+
+  - icon: fa fa-graduation-cap
+    name: "Dynamic Haptic Interfaces in Virtual Reality: Remapping Physical Controls to Virtual User Interfaces Using Haptic Retargeting"
+    description: "**B. J. Matthews**, “Dynamic Haptic Interfaces in Virtual Reality: Remapping Physical Controls to Virtual User Interfaces Using Haptic Retargeting,” Ph.D. dissertation, University of South Australia, Adelaide, Australia, 2023."
+    url: https://digital.library.adelaide.edu.au/handle/11541.2/38140
+
+  - icon: fa fa-file-text
+    name: "MaskWarp: Visuo-Haptic Illusions in Mixed Reality using Real-time Video Inpainting"
+    description: "**B. J. Matthews**, C. Reichherzer, B. H. Thomas and R. T. Smith, “MaskWarp: Visuo-Haptic Illusions in Mixed Reality using Real-time Video Inpainting,” in 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2023, pp. 767–768, doi: 10.1109/ISMAR-Adjunct60411.2023.00167."
+    url: https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00167
+
+  - icon: fa fa-file-text
+    name: Multi-Level Precues for Guiding Tasks Within and Between Workspaces in Spatial Augmented Reality
+    description: "B. Volmer, J.-S. Liu, **B. J. Matthews**, I. Bornkessel-Schlesewsky, S. Feiner and B. H. Thomas, “Multi-Level Precues for Guiding Tasks Within and Between Workspaces in Spatial Augmented Reality,” IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 11, pp. 4449–4459, Nov. 2023, doi: 10.1109/TVCG.2023.3320246."
+    url: https://doi.org/10.1109/TVCG.2023.3320246
+
+  - icon: fa fa-file-text
+    name: "That's Rough! Encoding Data into Roughness for Physicalization"
+    description: "X. Du, K. A. Satriadi, A. Drogemuller, **B. J. Matthews**, R. T. Smith, J. A. Walsh and A. Cunningham, “That’s Rough! Encoding Data into Roughness for Physicalization,” in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems, in CHI ’24. Honolulu, HI, USA: Association for Computing Machinery, 2024, Art. no. 203, doi: 10.1145/3613904.3641900."
+    url: https://doi.org/10.1145/3613904.3641900
+
+  - icon: fa fa-file-text
+    name: Towards Immersive AI
+    description: "M. Xi, M. Perera, **B. J. Matthews**, R. Wang, V. Weiley, R. Somarathna, H. Maqbool, J. Chen, U. Engelke, S. Anderson, M. Adcock and B. H. Thomas, “Towards Immersive AI,” in 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 2024, pp. 260–264, doi: 10.1109/ISMAR-Adjunct64951.2024.00062."
+    url: https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00062
+
+  - icon: fa fa-file-text
+    name: "Hey Building! Novel Interfaces for Parametric Design Manipulations in Virtual Reality"
+    description: "A. Drogemuller, **B. J. Matthews**, A. Cunningham, R. Yu, N. Gu and B. H. Thomas, “Hey Building! Novel Interfaces for Parametric Design Manipulations in Virtual Reality,” Proc. ACM Hum.-Comput. Interact., vol. 8, no. ISS, Art. no. 540, Dec. 2024, doi: 10.1145/3698140."
+    url: https://doi.org/10.1145/3698140
+
+  - icon: fa fa-file-text
+    name: Starting Your Multimodal HRI Study Journey
+    description: "K. Katuwandeniya, H. Senaratne, Y. Jiang, **B. J. Matthews**, L. Tian and D. Kulić, “Starting Your Multimodal HRI Study Journey,” in 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, pp. 2006–2008, doi: 10.1109/HRI61500.2025.10973915."
+    url: https://doi.org/10.1109/HRI61500.2025.10973915
+
+  - icon: fa fa-file-text
+    name: "Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning"
+    description: "X. Li, R. Santa Cruz, M. Xi, H. Zhang, M. Perera, Z. Wang, A. Ravendran, **B. J. Matthews**, F. Xu, M. Adcock, D. Wang and J. Liu, “Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning,” in Proceedings of the 33rd ACM International Conference on Multimedia, in MM ’25. Dublin, Ireland: Association for Computing Machinery, 2025, pp. 12492–12500, doi: 10.1145/3746027.3758177."
+    url: https://doi.org/10.1145/3746027.3758177
+
+  # - icon: fa fa-file-text
+  #   name: "Imaging, AI and robotics for high-throughput insect digitisation at CSIRO's National Research Collections of Australia"
+  #   description: "N. Fisher, P. Thrall, C. Paeper, L. Andersson, R. Wei, **B. J. Matthews**, C. Nguyen, H. Zhang, A. Ravendran and B. Tidd, “Imaging, AI and robotics for high-throughput insect digitisation at CSIRO’s National Research Collections of Australia,” Biodiversity Information Science and Standards, 2026, in press. Presented at TDWG 2026, Oslo, Norway."
+  #   url: ""
